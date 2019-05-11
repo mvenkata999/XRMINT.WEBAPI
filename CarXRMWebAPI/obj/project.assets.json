@@ -14779,23 +14779,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mvenkata\\.nuget\\packages\\": {},
+    "...\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DEV_MIKE\\XRMINTWEBAPI\\CarXRMWebAPI\\CarXRMWebAPI.csproj",
+      "projectUniqueName": "..\\CarXRMWebAPI\\CarXRMWebAPI.csproj",
       "projectName": "CarXRMWebAPI",
-      "projectPath": "D:\\DEV_MIKE\\XRMINTWEBAPI\\CarXRMWebAPI\\CarXRMWebAPI.csproj",
-      "packagesPath": "C:\\Users\\mvenkata\\.nuget\\packages\\",
-      "outputPath": "D:\\DEV_MIKE\\XRMINTWEBAPI\\CarXRMWebAPI\\obj\\",
+      "projectPath": "..\\CarXRMWebAPI\\CarXRMWebAPI.csproj",
+      "packagesPath": "...\\.nuget\\packages\\",
+      "outputPath": "..\\CarXRMWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mvenkata\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "...\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
