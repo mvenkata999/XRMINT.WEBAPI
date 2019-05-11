@@ -15,3 +15,5 @@ C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\obj\Debug\netcoreapp2.0\CarX
 C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\obj\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.csproj.CopyComplete
 C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\obj\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.dll
 C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\obj\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.pdb
+D:\DEV_MIKE\XRMINTWEBAPI\CarXRMWebAPI.UnitTests\obj\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.dll
+D:\DEV_MIKE\XRMINTWEBAPI\CarXRMWebAPI.UnitTests\obj\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.pdb
