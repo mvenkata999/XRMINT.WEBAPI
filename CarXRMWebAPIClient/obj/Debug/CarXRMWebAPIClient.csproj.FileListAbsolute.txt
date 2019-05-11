@@ -1,0 +1,14 @@
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\bin\Debug\CarXRMWebAPIClient.exe.config
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\bin\Debug\CarXRMWebAPIClient.exe
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\bin\Debug\CarXRMWebAPIClient.pdb
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\bin\Debug\RestSharp.dll
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\obj\Debug\CarXRMWebAPIClient.Form1.resources
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\obj\Debug\CarXRMWebAPIClient.Properties.Resources.resources
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\obj\Debug\CarXRMWebAPIClient.csproj.GenerateResource.cache
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\obj\Debug\CarXRMWebAPIClient.csproj.CoreCompileInputs.cache
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\obj\Debug\CarXRMWebAPIClient.csproj.CopyComplete
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\obj\Debug\CarXRMWebAPIClient.exe
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\obj\Debug\CarXRMWebAPIClient.pdb
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\bin\Debug\Newtonsoft.Json.dll
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\bin\Debug\Newtonsoft.Json.xml
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPIClient\obj\Debug\CarXRMWebAPIClient.csprojAssemblyReference.cache

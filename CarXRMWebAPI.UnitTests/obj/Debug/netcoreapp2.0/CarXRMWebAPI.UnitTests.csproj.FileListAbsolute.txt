@@ -1,0 +1,17 @@
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\bin\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.deps.json
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\bin\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.runtimeconfig.json
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\bin\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.runtimeconfig.dev.json
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\bin\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.dll
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\bin\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.pdb
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\bin\Debug\netcoreapp2.0\CarXRMWebAPI.dll
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\bin\Debug\netcoreapp2.0\CarXRMWebAPI.pdb
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\obj\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.csprojResolveAssemblyReference.cache
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\obj\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.csproj.CoreCompileInputs.cache
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\obj\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.AssemblyInfoInputs.cache
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\obj\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.AssemblyInfo.cs
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\obj\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.csproj.CopyComplete
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\obj\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.dll
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI.UnitTests\obj\Debug\netcoreapp2.0\CarXRMWebAPI.UnitTests.pdb

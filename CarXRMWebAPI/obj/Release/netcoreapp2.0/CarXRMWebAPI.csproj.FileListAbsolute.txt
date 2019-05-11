@@ -1,0 +1,13 @@
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI\bin\Release\netcoreapp2.0\CarXRMWebAPI.deps.json
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI\bin\Release\netcoreapp2.0\CarXRMWebAPI.runtimeconfig.json
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI\bin\Release\netcoreapp2.0\CarXRMWebAPI.runtimeconfig.dev.json
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI\bin\Release\netcoreapp2.0\CarXRMWebAPI.dll
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI\bin\Release\netcoreapp2.0\CarXRMWebAPI.pdb
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI\obj\Release\netcoreapp2.0\CarXRMWebAPI.csprojResolveAssemblyReference.cache
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI\obj\Release\netcoreapp2.0\CarXRMWebAPI.Resource.resources
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI\obj\Release\netcoreapp2.0\CarXRMWebAPI.csproj.GenerateResource.cache
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI\obj\Release\netcoreapp2.0\CarXRMWebAPI.csproj.CoreCompileInputs.cache
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI\obj\Release\netcoreapp2.0\CarXRMWebAPI.AssemblyInfoInputs.cache
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI\obj\Release\netcoreapp2.0\CarXRMWebAPI.AssemblyInfo.cs
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI\obj\Release\netcoreapp2.0\CarXRMWebAPI.dll
+C:\Mike\DevZone\CarXRMWebAPI\CarXRMWebAPI\obj\Release\netcoreapp2.0\CarXRMWebAPI.pdb
