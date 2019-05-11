@@ -14802,7 +14802,6 @@
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://offteamcity:57250/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },

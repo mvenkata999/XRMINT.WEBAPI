@@ -3,6 +3,7 @@ D:\DEV_MIKE\XRMINTWEBAPI\CarXRMWebAPI\bin\Debug\netcoreapp2.2\CarXRMWebAPI.runti
 D:\DEV_MIKE\XRMINTWEBAPI\CarXRMWebAPI\bin\Debug\netcoreapp2.2\CarXRMWebAPI.runtimeconfig.dev.json
 D:\DEV_MIKE\XRMINTWEBAPI\CarXRMWebAPI\bin\Debug\netcoreapp2.2\CarXRMWebAPI.dll
 D:\DEV_MIKE\XRMINTWEBAPI\CarXRMWebAPI\bin\Debug\netcoreapp2.2\CarXRMWebAPI.pdb
+D:\DEV_MIKE\XRMINTWEBAPI\CarXRMWebAPI\obj\Debug\netcoreapp2.2\CarXRMWebAPI.csprojAssemblyReference.cache
 D:\DEV_MIKE\XRMINTWEBAPI\CarXRMWebAPI\obj\Debug\netcoreapp2.2\CarXRMWebAPI.Resource.resources
 D:\DEV_MIKE\XRMINTWEBAPI\CarXRMWebAPI\obj\Debug\netcoreapp2.2\CarXRMWebAPI.csproj.GenerateResource.cache
 D:\DEV_MIKE\XRMINTWEBAPI\CarXRMWebAPI\obj\Debug\netcoreapp2.2\CarXRMWebAPI.csproj.CoreCompileInputs.cache
